@@ -112,7 +112,7 @@ export default function Index() {
 
       <section className="py-16 bg-background">
         <div className="container">
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="grid md:grid-cols-3 gap-6">
             {features.map((feature, index) => (
               <Card key={index} className="border-2 hover:border-primary/50 transition-all hover:shadow-lg animate-scale-in" style={{ animationDelay: `${index * 0.1}s` }}>
                 <CardHeader>
