@@ -50,11 +50,6 @@ export default function Index() {
       description: "Доступ к материалам 24/7 без ограничений по времени"
     },
     {
-      icon: "Award",
-      title: "Сертификат",
-      description: "Получите сертификат о прохождении курса"
-    },
-    {
       icon: "MessageCircle",
       title: "Поддержка преподавателя",
       description: "Ответы на вопросы в закрытом чате курса"
